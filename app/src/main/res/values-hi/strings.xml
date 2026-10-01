@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartMate AI</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_chat">एआई चैट</string>
+    <string name="nav_tasks">कार्य</string>
+    <string name="nav_notes">नोट्स</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+
+    <!-- Home -->
+    <string name="greeting_morning">सुप्रभात</string>
+    <string name="greeting_afternoon">शुभ दोपहर</string>
+    <string name="greeting_evening">शुभ संध्या</string>
+    <string name="quick_chat_hint">SmartMate AI से कुछ भी पूछें…</string>
+    <string name="ask_smartmate_ai">SmartMate AI से पूछें</string>
+    <string name="ask">पूछें</string>
+    <string name="no_tasks_due_today">आज कोई कार्य नियत नहीं है।</string>
+    <string name="no_upcoming_reminders">कोई आगामी रिमाइंडर नहीं है।</string>
+    <string name="no_notes_yet">अभी कोई नोट नहीं है।</string>
+    <string name="todays_tasks">आज के कार्य</string>
+    <string name="upcoming_reminders">आगामी रिमाइंडर</string>
+    <string name="recent_notes">हाल के नोट्स</string>
+    <string name="quick_action_chat">चैट</string>
+    <string name="quick_action_task">कार्य</string>
+    <string name="quick_action_reminder">रिमाइंडर</string>
+    <string name="quick_action_note">नोट</string>
+
+    <!-- Chat -->
+    <string name="new_chat">नई चैट</string>
+    <string name="chat_message_hint">संदेश लिखें…</string>
+    <string name="delete_conversation">हटाएं</string>
+    <string name="rename_conversation">नाम बदलें</string>
+    <string name="mic_input">वॉइस इनपुट</string>
+
+    <!-- Tasks -->
+    <string name="add_task">कार्य जोड़ें</string>
+    <string name="tasks_today">आज</string>
+    <string name="tasks_upcoming">आगामी</string>
+    <string name="tasks_completed">पूर्ण</string>
+    <string name="priority_low">कम</string>
+    <string name="priority_medium">मध्यम</string>
+    <string name="priority_high">उच्च</string>
+    <string name="category_study">अध्ययन</string>
+    <string name="category_work">काम</string>
+    <string name="category_personal">व्यक्तिगत</string>
+    <string name="category_other">अन्य</string>
+
+    <!-- Reminders -->
+    <string name="add_reminder">रिमाइंडर जोड़ें</string>
+    <string name="repeat_once">एक बार</string>
+    <string name="repeat_daily">प्रतिदिन</string>
+    <string name="repeat_weekly">साप्ताहिक</string>
+    <string name="repeat_monthly">मासिक</string>
+    <string name="field_repeat">दोहराएं</string>
+    <string name="reminder_fires_at">समय: %1$s</string>
+
+    <!-- Notes -->
+    <string name="add_note">नोट जोड़ें</string>
+    <string name="search_notes">नोट्स खोजें</string>
+    <string name="pin_note">पिन करें</string>
+    <string name="ai_improve_note">एआई सुधार</string>
+
+    <!-- Planner -->
+    <string name="daily_planner">दैनिक योजनाकार</string>
+    <string name="morning_overview">सुबह का सारांश</string>
+    <string name="generate_ai_plan">एआई योजना बनाएं</string>
+    <string name="planner_overview_summary">%1$d कार्य • %2$d रिमाइंडर • %3$d हाल के नोट्स</string>
+    <string name="nothing_due_today">आज कुछ भी नियत नहीं है।</string>
+    <string name="no_reminders_today">आज कोई रिमाइंडर नहीं है।</string>
+    <string name="ai_daily_plan">एआई दैनिक योजना</string>
+
+    <!-- AI Tools -->
+    <string name="ai_tools">एआई टूल्स</string>
+    <string name="tool_summarizer">टेक्स्ट सारांशक</string>
+    <string name="tool_grammar">व्याकरण सुधारक</string>
+    <string name="tool_email">ईमेल लेखक</string>
+    <string name="tool_caption">कैप्शन जनरेटर</string>
+    <string name="tool_study_notes">अध्ययन नोट्स जनरेटर</string>
+    <string name="tool_qna">प्रश्न-उत्तर सहायक</string>
+    <string name="tool_translate">हिंदी ⇄ अंग्रेज़ी अनुवादक</string>
+
+    <!-- Account -->
+    <string name="sign_up">साइन अप करें</string>
+    <string name="log_in">लॉग इन करें</string>
+    <string name="continue_with_google">Google के साथ जारी रखें</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="signed_in_as">इस रूप में साइन इन किया गया</string>
+    <string name="default_user_label">SmartMate उपयोगकर्ता</string>
+    <string name="cloud_sign_in_unavailable">क्लाउड साइन-इन अभी कॉन्फ़िगर नहीं है (google-services.json गायब है)। आप फिर भी ऐप एक्सप्लोर कर सकते हैं।</string>
+
+    <!-- Settings -->
+    <string name="settings">सेटिंग्स</string>
+    <string name="theme">थीम</string>
+    <string name="language">भाषा</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="clear_chat_history">चैट इतिहास साफ़ करें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="about_app">ऐप के बारे में</string>
+    <string name="about_app_body">SmartMate AI v1.0.0 — चैट, कार्यों, नोट्स, रिमाइंडर और दैनिक योजना के लिए आपका एआई-संचालित व्यक्तिगत सहायक।</string>
+    <string name="privacy_policy_body">आपके कार्य, नोट्स, रिमाइंडर और चैट इतिहास आपके डिवाइस पर संग्रहीत होते हैं और साइन इन करने पर सुरक्षित रूप से आपके खाते से सिंक किए जाते हैं।</string>
+    <string name="ok">ठीक है</string>
+
+    <!-- Common -->
+    <string name="save">सहेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="edit">संपादित करें</string>
+    <string name="confirm_delete_title">हटाएं?</string>
+    <string name="confirm_delete_message">यह क्रिया पूर्ववत नहीं की जा सकती।</string>
+    <string name="empty_state_tasks">अभी कोई कार्य नहीं है। जोड़ने के लिए + दबाएं।</string>
+    <string name="empty_state_notes">अभी कोई नोट नहीं है। जोड़ने के लिए + दबाएं।</string>
+    <string name="empty_state_reminders">अभी कोई रिमाइंडर नहीं है। जोड़ने के लिए + दबाएं।</string>
+    <string name="empty_state_chats">अभी कोई बातचीत नहीं है। नई चैट शुरू करें।</string>
+    <string name="error_generic">कुछ गलत हो गया। कृपया पुनः प्रयास करें।</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="field_title">शीर्षक</string>
+    <string name="field_notes">नोट्स</string>
+    <string name="field_priority">प्राथमिकता</string>
+    <string name="field_category">श्रेणी</string>
+    <string name="field_content">सामग्री</string>
+    <string name="field_tags">टैग (कॉमा से अलग करें)</string>
+    <string name="error_title_required">शीर्षक आवश्यक है</string>
+</resources>
